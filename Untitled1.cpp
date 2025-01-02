@@ -8,7 +8,7 @@ void show(){
     cout<<"2: Yellow"<<endl;
     cout<<"3: Green"<<endl;
     cout<<"4: TO EXIT"<<endl;
-
+ // edited code
   }
 int showManage() {
     char choice;
